@@ -1,0 +1,28 @@
+.navbar .area li{
+    margin-right: 0px;
+    margin-left: 20px;
+}
+.steps .first .second{
+    margin-right: 0px;
+    margin-left: 15px;
+}
+.top-footer .links .parent .child2{
+    margin-right: 0px;
+    margin-left: 15px;
+}
+.about .right .adv li:before{
+    right: auto;
+    left: 0px
+}
+.about .right .adv li{
+    padding-right: 0px;
+    padding-left: 30px
+}
+.about .right .links li:last-of-type{
+    margin-right: 0px;
+    margin-left: 30px
+}
+.our-vision .first .child2{
+    margin-right: 0px;
+    margin-left: 40px
+}
